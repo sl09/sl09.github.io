@@ -6,9 +6,28 @@
     <description>Recent content in Tags on sl09的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Sun, 24 May 2020 00:14:50 +0800</lastBuildDate>
     
 	<atom:link href="https://sl09.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>guide</title>
+      <link>https://sl09.github.io/tags/guide/</link>
+      <pubDate>Sun, 24 May 2020 00:14:50 +0800</pubDate>
+      
+      <guid>https://sl09.github.io/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utilities</title>
+      <link>https://sl09.github.io/tags/utilities/</link>
+      <pubDate>Sun, 24 May 2020 00:14:50 +0800</pubDate>
+      
+      <guid>https://sl09.github.io/tags/utilities/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

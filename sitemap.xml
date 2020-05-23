@@ -4,31 +4,42 @@
   
   <url>
     <loc>https://sl09.github.io/categories/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sl09.github.io/tags/guide/</loc>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sl09.github.io/post/Hugo-UseGuide/</loc>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://sl09.github.io/post/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sl09.github.io/post/singleton/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://sl09.github.io/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sl09.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://sl09.github.io/tags/</loc>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sl09.github.io/tags/utilities/</loc>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sl09.github.io/categories/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2020-05-24T00:14:50+08:00</lastmod>
   </url>
   
 </urlset>

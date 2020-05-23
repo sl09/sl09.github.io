@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on sl09的博客</title>
-    <link>https://sl09.github.io/post/</link>
-    <description>Recent content in Posts on sl09的博客</description>
+    <title>使用指南 on sl09的博客</title>
+    <link>https://sl09.github.io/categories/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 使用指南 on sl09的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 24 May 2020 00:14:50 +0800</lastBuildDate>
     
-	<atom:link href="https://sl09.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sl09.github.io/categories/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
